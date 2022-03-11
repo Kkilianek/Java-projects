@@ -1,2 +1,2 @@
 # Java-projects
-All of my Java projects will be posted here
+All of my simpler Java projects will be posted here
